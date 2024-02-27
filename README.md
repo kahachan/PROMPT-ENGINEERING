@@ -14,8 +14,9 @@ The Art of Prompt Engineering course offers a comprehensive exploration of creat
 
 ## Tech Stack
 
-- Python
-- HTML
-- CSS
-- JavaScript
-- Flask
+- Programming Languages: Python
+- Libraries and Frameworks: TensorFlow, PyTorch
+- Tools and Platforms: Jupyter Notebooks, GitHub
+- AI Models: GPT-3.5, Custom Models
+- Development Environment: Docker
+- Additional Technologies: NLP (Natural Language Processing), Prompt Engineering Techniques
